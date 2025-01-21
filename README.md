@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Fastapi-009688?style=flat-square&logo=fastapi&logoColor=white"/></a>
-### Security
+### Security & Account Control
 <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Oauth2-3423A6?style=flat-square&logo=oauth2&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Active_Directory-1FB6FF?style=flat-square&logo=active&logoColor=white"/></a>
